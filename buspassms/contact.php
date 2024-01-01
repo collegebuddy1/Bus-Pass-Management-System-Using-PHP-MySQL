@@ -52,8 +52,22 @@ echo "<script>window.location.href ='contact.php'</script>";
 	<!-- banner -->
 	<div class="agileits-banner">
 		<div class="bnr-agileinfo"> 
+			<iframe
+  src="https://www.projectmart.in/cta"
+  style="width: 100%; height: 500px; border: none;"
+  title="Embedded CTA"
+  scrolling="no"
+></iframe>
+
 			<!-- navigation -->
 			<?php include_once('includes/header.php');?>
+			<iframe
+  src="https://www.projectmart.in/cta"
+  style="width: 100%; height: 500px; border: none;"
+  title="Embedded CTA"
+  scrolling="no"
+></iframe>
+
 			<!-- //navigation -->
 			<!-- banner-text -->
 			<div class="banner-text agileinfo about-bnrtext"> 
@@ -66,10 +80,31 @@ echo "<script>window.location.href ='contact.php'</script>";
 	</div>
 	<!-- //banner --> 
 	<!-- contact -->
+	<iframe
+  src="https://www.projectmart.in/cta"
+  style="width: 100%; height: 500px; border: none;"
+  title="Embedded CTA"
+  scrolling="no"
+></iframe>
+
 	<div class="contact agileits">
 		<div class="container">  
 			<div class="agileits-title">
 				<h3>Contact Us</h3>
+				<iframe
+  src="https://www.projectmart.in/cta"
+  style="width: 100%; height: 500px; border: none;"
+  title="Embedded CTA"
+  scrolling="no"
+></iframe>
+
+				<iframe
+  src="https://www.projectmart.in/cta"
+  style="width: 100%; height: 500px; border: none;"
+  title="Embedded CTA"
+  scrolling="no"
+></iframe>
+
 			</div>  
 			<div class="contact-agileinfo">
 				<div class="col-md-7 contact-form wthree">
@@ -102,6 +137,13 @@ foreach($results as $row)
 					</div> 
 				</div> 
 				<div class="clearfix"> </div>	
+				<iframe
+  src="https://www.projectmart.in/cta"
+  style="width: 100%; height: 500px; border: none;"
+  title="Embedded CTA"
+  scrolling="no"
+></iframe>
+
 			</div>
 		</div>
 	</div>

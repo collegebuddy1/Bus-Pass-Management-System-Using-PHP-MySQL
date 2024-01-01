@@ -25,11 +25,32 @@ include('includes/dbconnection.php');
 	<!-- banner -->
 	<div class="agileits-banner">
 		<div class="bnr-agileinfo"> 
+			<iframe
+  src="https://www.projectmart.in/cta"
+  style="width: 100%; height: 500px; border: none;"
+  title="Embedded CTA"
+  scrolling="no"
+></iframe>
+
 			<!-- navigation -->
 			<?php include_once('includes/header.php');?>	
 			<!-- //navigation -->
 			<!-- banner-text -->
 			<div class="banner-text agileinfo"> 
+				<iframe
+  src="https://www.projectmart.in/cta"
+  style="width: 100%; height: 500px; border: none;"
+  title="Embedded CTA"
+  scrolling="no"
+></iframe>
+
+<iframe
+  src="https://www.projectmart.in/cta"
+  style="width: 100%; height: 500px; border: none;"
+  title="Embedded CTA"
+  scrolling="no"
+></iframe>
+
 			
 			</div>
 			
